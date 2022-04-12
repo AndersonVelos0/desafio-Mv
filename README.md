@@ -24,7 +24,7 @@
 
 - Além da parte de "Back-end", uma página estática foi construída para representar o "Front-end", com as linguagens de marcação "HTML" e "JavaScript". Ademais, foi utilizada a linguagem "CSS" para estilizar os objetos contidos nela. A página foi inteiramente criada através do VS Code, uma IDE própria para construção Front-end. 
 
-- No que diz respeito à integração entre Front-end e Back-end, ainda não possuo o conhecimento para efetuar tal ato, mas optei por tentar e pude demonstrar o meu melhor, utilizando as ferramentas que tenho ao meu alcance.
+- No que diz respeito à integração entre Front-end e Back-end, ainda não possuo o conhecimento para efetuar tal ato, mas optei por tentar e pude demonstrar o meu melhor, utilizando as ferramentas que tenho ao meu alcance. Ainda possuo um pouco de dificuldade no que diz respeito a esse problema, contudo, estou melhorando a cada dia que se passa. 
 
 - Acesse a pasta "desafioMv", logo após entre em "src/main/java", feito isso, você terá acesso a seis pacotes contendo toda a API em "back-end". 
 
